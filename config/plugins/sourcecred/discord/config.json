@@ -1,0 +1,27 @@
+[
+  {
+    "channelWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {
+        "893436559716671498": 5,
+        "893436142169518080": 10
+      }
+    },
+    "guildId": "828677493086224425",
+    "includeNsfwChannels": false,
+    "propsChannels": ["893591684594663496"],
+    "reactionWeightConfig": {
+      "applyAveraging": false,
+      "defaultWeight": 1,
+      "weights": {
+        "🌟": 2,
+        "✅": 2,
+        "❌": 2
+      }
+    },
+    "roleWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {}
+    }
+  }
+]
